@@ -4,7 +4,7 @@
 
 **Project Description**: This is a database of fictional countries I created with detailed information, such as GDP, cities and geographical features. This information can be pulled using the .py file provided.
 
-**Project Goals**:
+**Project Goals**: Become more confident in my skills with relational databases & try new kinds of datasets.
 
 ## Instructions for Build and Use
 
