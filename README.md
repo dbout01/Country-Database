@@ -32,9 +32,13 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* [YouTube](https://youtu.be/AKynuCZttBs?si=gDmvsa4fEnuRUAdX)
+* [YouTube](https://youtu.be/halX_6VxwHk?si=wABiawudBPsfDqzW)
+* [YouTube](https://youtu.be/YmW7LCnWrxY?si=SXPsa_wGTW47uj4M)
+* [YouTube](https://youtu.be/6QH7pQEfoSo?si=fMYbRgFh9CQOvYxS)
+* [YouTube](https://youtu.be/l5NQ58TJejk?si=YU64mhbtlCxNfKFa)
+* [YouTube](https://youtu.be/b0Dplx4M5zg?si=rRvkzEjx1fccfVRZ)
+* [YouTube](https://youtu.be/lkodYE6Xb7M?si=5nR93Qu9sSchxOng)
 
 ## Future Work
 
