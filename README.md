@@ -48,6 +48,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [Ironing-out all bugs]
-* [Adding fuctionality that lets the user add statistics to a table/multiple tables]
-* [A user-friendly UI, rather than just output]
+* Ironing-out all bugs
+* Adding fuctionality that lets the user add statistics to a table/multiple tables
+* A user-friendly UI, rather than just output
