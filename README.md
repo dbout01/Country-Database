@@ -2,9 +2,12 @@
 
 **Project Title**: Country Database
 
-**Project Description**: This is a database of fictional countries I created with detailed information, such as GDP, cities and geographical features. This information can be pulled using the .py file provided.
+**Project Description**: This is a database of fictional countries I created with detailed information,
+such as GDP, cities and geographical features. This information can be pulled using the .py file provided.
 
-**Project Goals**: Become more confident in my skills with relational databases & try new kinds of datasets.
+**Project Goals**:
+* Become more confident in my skills with relational databases
+* Try new kinds of datasets.
 
 ## Instructions for Build and Use
 
@@ -24,9 +27,9 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* VSCode (latest version)
+* DB Browser SQLite3 (https://sqlitebrowser.org/dl/)
+* SQLite extension on VSCode
 
 ## Useful Websites to Learn More
 
@@ -44,6 +47,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [Ironing-out all bugs]
+* [Adding fuctionality that lets the user add statistics to a table/multiple tables]
+* [A user-friendly UI, rather than just output]
