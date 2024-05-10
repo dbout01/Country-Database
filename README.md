@@ -19,10 +19,11 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
-
+1. Open the tyre.py file
+2. Open a Terminal or Command Prompt: Navigate to the directory where the Python file is located.
+3. Run the Python File: Use the python command followed by 'tyre.py'
+4. Execute: Press Enter to execute the command.
+5. (Here you will see all of the tables in the data become outputted as well as results for the  SQLite COUNT() function that adds all country populations and the SQLite AVG() function that calculates the average GDP of the entire world
 ## Development Environment 
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
