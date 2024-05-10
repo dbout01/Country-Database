@@ -30,6 +30,7 @@ To recreate the development environment, you need the following software and/or 
 * VSCode (latest version)
 * DB Browser SQLite3 (https://sqlitebrowser.org/dl/)
 * SQLite extension on VSCode
+* SQLite Tools (https://www.sqlitetutorial.net/download-install-sqlite/)
 
 ## Useful Websites to Learn More
 
