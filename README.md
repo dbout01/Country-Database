@@ -13,9 +13,20 @@ such as GDP, cities and geographical features. This information can be pulled us
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Install Python: Ensure that Python is installed on your system. You can download it from the official Python website: python.org.
+2. Install SQLite: If you don't already have SQLite installed, you can download the SQLite tools from the official website: sqlite.org.
+3. Table Creation: Define SQL queries to create tables if they don't already exist. This involves creating tables for storing country data, city data, geography data, historical events, and language data.
+4. Data Insertion: Prepare and execute SQL statements to insert data into the tables. Data includes information about countries, cities, geographical features, historical events, and languages.
+5. Clone the Repository: Clone the repository containing the code if you haven't already done so.
+6. Imports: Import necessary modules and libraries. In this case, you'll need sqlite3 for working with SQLite databases and locale for formatting numerical values.
+7. Database Connection: Connect to the SQLite database using sqlite3.connect().
+8. Data Retrieval: Perform SQL queries to retrieve information from the database. This may involve querying aggregate functions like AVG and SUM to calculate average GDP and total population.
+9. Data Formatting: Format the retrieved numerical values using the locale module to include commas for readability.
+10. Navigate to the Directory: Using the command line interface, navigate to the directory where the code files are located.
+11. Run the Script: Execute the Python script by running the following command: python tyre.py
+12. View Output: Once the script is executed, it will connect to the SQLite database, create tables (if they don't exist), insert data into the tables, calculate the average GDP and total population, and print the results. You can view the output directly in the terminal/console.
+13. Verify Database: Optionally, you can verify the SQLite database (tyre.db) to ensure that the tables and data have been correctly created and inserted.
+14. Close Connection: After the script execution is completed, the connection to the SQLite database will be closed automatically.
 
 Instructions for using the software:
 
